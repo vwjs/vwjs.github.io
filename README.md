@@ -1,4 +1,4 @@
-<p align="center"><img alt="vwjs" align="center" width=150px src="https://github.com/vwjs/vwjs/blob/main/pic/vwjs_transparent_logo.png"/></p><br/>
+
 <p align="center">
   <a href="https://www.npmjs.com/vwjs-ui" target="_blank"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gramscript/gramscript?logo=files&logoColor=f72585"></a>
 	<a href="https://github.comvwjs/vwjs"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gramscript/gramscript.py?color=06d6a0&logo=adguard&logoColor=89fc00"></a>
