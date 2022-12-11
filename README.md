@@ -7,7 +7,7 @@
 	<a href="https://www.npmjs.com/vwjs-ui"><img alt="npm - Downloads" src="https://img.shields.io/npm/dm/vwjs-ui?color=06d6a0&logo=adguard&logoColor=89fc00"></a>
 </p>
 <p align="center">
-  <a href="https://www.patreon.com/join/codexo/checkout?rid=9038729"><img src="https://img.shields.io/badge/Support%20us-Become%20Backer-DB61A2.svg" alt="Support us"</a>
+  <a href="https://www.patreon.com/join/codexo/checkout?rid=9038729"><img src="https://img.shields.io/badge/Support%20us-Become%20Backer-DB61A2.svg" alt="Support us"></a>
   <a href="https://www.patreon.com/join/codexo/checkout?rid=9038718"><img src="https://img.shields.io/badge/Support%20us-Become%20Sponser-41B883.svg" alt="Support us"></a>
 </p>
 
